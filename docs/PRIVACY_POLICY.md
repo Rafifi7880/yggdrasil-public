@@ -71,7 +71,7 @@ Conformément aux réglementations sur la protection des données (RGPD / CCPA),
 2. **Droit à l'Effacement Immédiat (Droit à l'Oubli)** :
    - Vous pouvez supprimer l'intégralité de vos données de joueur instantanément en utilisant la commande :
      ```text
-     /reset-data confirm:true
+     /reset-data
      ```
    - Vous pouvez également demander la suppression manuelle de toutes vos données par simple message sur notre serveur de support.
 
