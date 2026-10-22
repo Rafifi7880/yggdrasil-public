@@ -71,7 +71,7 @@ Conformément aux réglementations sur la protection des données (RGPD / CCPA),
 2. **Droit à l'Effacement Immédiat (Droit à l'Oubli)** :
    - Vous pouvez supprimer l'intégralité de vos données de joueur instantanément en utilisant la commande :
      ```text
-     /reset-data
+     /reset-data player
      ```
    - Vous pouvez également demander la suppression manuelle de toutes vos données par simple message sur notre serveur de support.
 
@@ -84,5 +84,4 @@ Nous nous réservons le droit de mettre à jour cette politique pour refléter l
 
 ### 9. Délégué à la Protection des Données & Contact
 Pour exercer vos droits ou pour toute question concernant le traitement de vos données :
-* **Serveur Discord de Support** : [Rejoindre le Support Nazarick]
-* **Email de Contact DPO** : `privacy@yggdrasil-bot.dev` (ou via commande `/support`)
+* **Serveur Discord de Support** : [Rejoindre le Support Nazarick](https://discord.gg/6GzFfh9AGU)
