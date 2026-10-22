@@ -60,5 +60,5 @@ Nous nous réservons le droit de mettre à jour ou réviser les présentes Condi
 
 ### 9. Contact
 Pour toute question relative aux présentes Conditions d'Utilisation ou pour signaler un abus ou un dysfonctionnement :
-* **Serveur Discord de Support** : [Rejoindre le Support Nazarick]
-* **Commande Discord** : Tapez `/help` ou `/support`
+* **Serveur Discord de Support** : [Rejoindre le Support Nazarick](https://discord.gg/6GzFfh9AGU)
+* **Commande Discord** : Tapez `/help` ou `/config`
