@@ -1,5 +1,5 @@
 # CONDITIONS D'UTILISATION (TERMS OF SERVICE)
-## Bot Discord Yggdrasil / Overlord
+## Bot Discord Yggdrasil (DMMO-RPG)
 
 **Dernière mise à jour : 29 Août 2026**
 
