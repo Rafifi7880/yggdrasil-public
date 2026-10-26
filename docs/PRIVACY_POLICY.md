@@ -1,7 +1,7 @@
 # POLITIQUE DE CONFIDENTIALITÉ (PRIVACY POLICY)
-## Bot Discord Yggdrasil / Overlord
+## Bot Discord Yggdrasil (DMMO-RPG)
 
-**Dernière mise à jour : 29 Août 2026**
+**Dernière mise à jour : 25 Octobre 2026**
 
 ---
 
@@ -73,6 +73,7 @@ Conformément aux réglementations sur la protection des données (RGPD / CCPA),
      ```text
      /reset-data player
      ```
+     *(Les administrateurs d'un serveur peuvent également réinitialiser la configuration serveur via `/reset-data server`)*
    - Vous pouvez également demander la suppression manuelle de toutes vos données par simple message sur notre serveur de support.
 
 ---
